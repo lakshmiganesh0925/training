@@ -46,7 +46,8 @@ Explain what  Line D  demonstrates about variable types
  
  
 How would you modify the code to prevent  values  from being modified outside the function?
-##Expliantion
+
+# Expliantion
 Mutability: Lists are "live" objects; temp = data is a reference, not a copy.
 
 LEGB: Search order is Local → Enclosing → Global → Built-in.
